@@ -1,5 +1,7 @@
 /*a change for GIT*/
 
+/*Commit2*/
+
 DROP TABLE regions     CASCADE CONSTRAINTS;
 DROP TABLE departments CASCADE CONSTRAINTS;
 DROP TABLE locations   CASCADE CONSTRAINTS;
